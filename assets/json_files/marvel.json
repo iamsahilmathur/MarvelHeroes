@@ -1,0 +1,100 @@
+{
+  "marvels_heroes": [
+    {
+      "name": "Captain America",
+      "profile_image": "assets/app_images/captain_america.jpg",
+      "howGotPow": "Injected with Super-Soldier Serum",
+      "weapons": "Vibranium shield"
+    },
+    {
+      "name": "Black Panther",
+      "profile_image": "assets/app_images/black_panther.jpg",
+      "howGotPow": "Having the juices of the Heart-Shaped Herb applied to his body",
+      "weapons": "Energy dagger, anti-metal claws"
+    },
+    {
+      "name": "Groot",
+      "profile_image": "assets/app_images/groot.jpg",
+      "howGotPow": "Born as a Flora colossus",
+      "weapons": "His powers"
+    },
+    {
+      "name": "Black Widow",
+      "profile_image": "assets/app_images/black_widow.jpg",
+      "howGotPow": "Trained as a KGB operative and dangerous assassin",
+      "weapons": "Black Widow’s bite, Black Widow’s batons, taser disks, handguns"
+    },
+    {
+      "name": "Wolverine",
+      "profile_image": "assets/app_images/woolvarin.jpg",
+      "howGotPow": "Mutant-born",
+      "weapons": "Adamantium claws, daggers, katana, guns"
+    },
+    {
+      "name": "Iron Man",
+      "profile_image": "assets/app_images/iron_man.jpg",
+      "howGotPow": "From his suit",
+      "weapons": "Repulsor rays, uni-beam projector, lasers"
+    },
+    {
+      "name": "Ultron",
+      "profile_image": "assets/app_images/ultron.jpg",
+      "howGotPow": "Built by Henry Pym",
+      "weapons": "Repulsor, plasma weapons"
+    },
+    {
+      "name": "Wanda Maximoff",
+      "profile_image": "assets/app_images/wanda.jpg",
+      "howGotPow": "Undergoing experiments at HYDRA",
+      "weapons": "Her powers"
+    },
+    {
+      "name": "Vision",
+      "profile_image": "assets/app_images/vision.jpg",
+      "howGotPow": "From the vibranium & Mind Stone his body comprises",
+      "weapons": "His powers and the Mind Stone"
+    },
+    {
+      "name": "Hulk",
+      "profile_image": "assets/app_images/hulk.jpg",
+      "howGotPow": "Exposed to gamma radiation",
+      "weapons": "His strength"
+    },
+    {
+      "name": "Spider-Man",
+      "profile_image": "assets/app_images/spider_man.jpg",
+      "howGotPow": "Bitten by a radioactive spider",
+      "weapons": "Web-shooters"
+    },
+    {
+      "name": "Captain Marvel",
+      "profile_image": "assets/app_images/captain_marvell.jpg",
+      "howGotPow": "Exposed to Kree technology",
+      "weapons": "Nega Bands"
+    },
+    {
+      "name": "Jean Grey",
+      "profile_image": "assets/app_images/jean.jpg",
+      "howGotPow": "Mutant-born",
+      "weapons": "Her powers"
+    },
+    {
+      "name": "Thanos",
+      "profile_image": "assets/app_images/thones.jpg",
+      "howGotPow": "Titan-born and Infinity Stones",
+      "weapons": "Stasis Rifle, Infinity Gauntlet"
+    },
+    {
+      "name": "Thor",
+      "profile_image": "assets/app_images/thor.jpg",
+      "howGotPow": "Born the Asgardian God of Thunder",
+      "weapons": "Warhammer Mjolnir"
+    },
+    {
+      "name": "Ant-Man",
+      "profile_image": "assets/app_images/ant_man.jpg",
+      "howGotPow": "Tested the Pym Particles serum on himself\n",
+      "weapons": "Stinger firearm"
+    }
+  ]
+}
