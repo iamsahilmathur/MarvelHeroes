@@ -12,4 +12,4 @@ Hello Friends, This is marvel heroes App with Beautiful ui and with local json d
   
   <img src="https://github.com/iamsahilmathur/MarvelHeroes/blob/master/marvel.jpg?raw=true" width="300" height="600">
  
-   ## If you have learn then show your love by give statrs... :)
+   ## If you have learn someting new then show your love by giving statrs... :)
